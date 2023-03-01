@@ -4,18 +4,20 @@
       <div class=" flex flex-col flex-wrap md:mx-11">
         <Loader/>
         <h1 class="text-white font-gloock tracking-widest text-4xl my-5 md:text-5xl lg:text-7xl laptoplarge:text-[5rem]">this is my portfolio.</h1>
+   
+
         <p class="text-white font-poppins text-xs font-extralight tracking-wide leading-5 lg:text-base laptoplarge:text-base laptoplarge:my-5 ">Hi, my name is Melina. I’m a software engineer specializing in building (and occasionally designing) exceptional digital experiences. Currently, I’m focused on building accessible, human-centered products at <span class="text-bluelightpo">Upstatement.</span></p>
           <div class="my-5 flex gap-4 lg:gap-6 laptoplarge:gap-8 items-center hover:cursor-pointer lg:my-6">
             <span class="w-11 bg-white h-[0.3px] md:w-16 lg:w-28 laptoplarge:w-32 laptopmax:w-48"></span>
             <a href="https://www.linkedin.com/in/melina-bouchelleghem/" target="_blank">
-              <img  class="w-7 lg:w-9" src="../assets/linkedin.svg" alt="">
+              <img  class="w-7 lg:w-9 transition-all hover:scale-110 duration-300" src="../assets/linkedin.svg" alt="">
             </a>
             <a href="https://instagram.com/meli.codes?igshid=YmMyMTA2M2Y=" target="_blank">
-              <img  class="w-7 lg:w-9" src="../assets/instagram.svg" alt="">
+              <img  class="w-7 lg:w-9 transition-all hover:scale-110 duration-300" src="../assets/instagram.svg" alt="">
             </a>
-              <img  class="w-7 lg:w-9" src="../assets/twitter.svg" alt="">
+              <img  class="w-7 lg:w-9 transition-all hover:scale-125 duration-300" src="../assets/twitter.svg" alt="">
             <a href="https://github.com/Melina-Blm" target="_blank">
-               <img  class="w-7 lg:w-9" src="../assets/github.svg" alt="">
+               <img  class="w-7 lg:w-9 transition-all hover:scale-125 duration-300 ease-in-out" src="../assets/github.svg" alt="">
             </a>
           </div>
       </div>
@@ -25,10 +27,8 @@
     </div>
 
     <div class="bg-blackpo border-t-[0.015rem] border-zinc-600">
-      <div class="flex items-center gap-10 my-20 md:my-10 lg:my-10">
-        <div>
-          <img class="hidden md:block" src="../assets/ellipse.svg" alt="">
-        </div>
+      <div class="flex items-center  justify-center gap-10 my-16 mx-16 md:my-10 lg:my-10">
+  
           <div class=" flex flex-col flex-wrap lg:ml-15 md:max-w-md lg:max-w-2xl">
         <h2 class="font-poppins font-light uppercase text-white text-lg tracking-widexl my-2 md:text-xl  lg:text-2xl">About me</h2>
         
@@ -40,7 +40,7 @@
         <p class="text-greypo font-poppins md:text-xs text-xxs font-extralight tracking-wide leading-5 md:leading-5 lg:text-base">I’m a software engineer specializing in building (and occasionally designing) exceptional digital experiences. <br><br>All along my journey I’ve worked with various technologies such as :</p>
        <ListR/>
         <a href="mailto:melina.bouchelleghem@gmail.com">
-        <div class="flex gap-2 my-5 border-[1px] p-3 w-max rounded-3xl flex-wrap bg-transpo hover:bg-hoverpo">
+        <div class="flex gap-2 my-5 border-[1px] p-3 w-max rounded-3xl flex-wrap transition-all duration-700 hover:scale-105 ease-in-out bg-transpo hover:bg-hoverpo">
         <img class="w-14" src="../assets/arrow.svg" alt="">
         <p class="font-poppins text-white font-extralight text-xs  mx-3 lg:text-base hover:cursor-pointer">get in contact</p>
         </div>

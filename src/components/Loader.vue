@@ -38,7 +38,7 @@
 @keyframes dots {
     50%{
         opacity: 0;
-        transform: scale(0.8) translateY(5px)
+        transform: scale(0.8) translateY(10px)
     }
     
 }

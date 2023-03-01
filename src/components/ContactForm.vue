@@ -13,7 +13,7 @@
         <label for="message" class="font-poppins lg:text-base text-white font-medium text-xs my-3  tracking-widest relative">Message<span class="absolute text-bluepo text-xl bottom-[1px] lg:bottom-1">*</span></label>
         <textarea name="message "  required id="" cols="5" rows="2"  class=" lg:text-base bg-transparent text-xs border-b-[1px] text-zinc-500 border-zinc-600 focus:outline-none placeholder-zinc-500 mb-5 pb-1 font-poppins font-light" placeholder="Write here..."></textarea>
                  
-        <div class="flex gap-2 my-5 border-[1px] p-3 w-max rounded-3xl flex-wrap bg-transpo hover:bg-hoverpo m-auto">
+        <div class="flex gap-2 my-5 border-[1px] p-3 w-max rounded-3xl flex-wrap m-auto transition-all duration-700 hover:scale-105 ease-in-out bg-transpo hover:bg-hoverpo">
             <img class="w-14" src="../assets/arrow.svg" alt="">
               <p class="font-poppins text-white font-extralight text-xs  lg:text-base hover:cursor-pointer hover:text-zinc-200">send your message</p>
          </div>

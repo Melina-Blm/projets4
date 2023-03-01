@@ -14,7 +14,7 @@ const router = createRouter({
 export default router
 
 new kursor ({
-    type:5,
+    type:4,
     removeDefaultCursor:true,
     color :"#FFFFFF"
 })
