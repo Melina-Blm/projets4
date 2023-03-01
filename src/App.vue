@@ -1,5 +1,5 @@
 <template>
-    <div class="bg-darkpo">
+    <div class="bg-darkpo h-full">
 <MenuR/>
       <Suspense>
         <router-view class=""/>
