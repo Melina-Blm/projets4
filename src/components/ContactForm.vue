@@ -15,7 +15,7 @@
                  
         <div class="flex gap-2 my-5 border-[1px] p-3 w-max rounded-3xl flex-wrap m-auto transition-all duration-700 hover:scale-105 ease-in-out bg-transpo hover:bg-hoverpo">
             <img class="w-14" src="../assets/arrow.svg" alt="">
-              <p class="font-poppins text-white font-extralight text-xs  lg:text-base hover:cursor-pointer hover:text-zinc-200">send your message</p>
+              <p class="font-poppins text-white font-extralight text-xs  lg:text-base hover:cursor-pointer hover:text-zinc-200">send your message.</p>
          </div>
       </div>  
 </template>

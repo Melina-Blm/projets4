@@ -27,24 +27,27 @@
     </div>
 
     <div class="bg-blackpo border-t-[0.015rem] border-zinc-600">
-      <div class="flex items-center  justify-center gap-10 my-16 mx-16 md:my-10 lg:my-10">
+      <div class="flex items-center  justify-center gap-10 my-16 mx-9 md:my-10 lg:my-28">
   
-          <div class=" flex flex-col flex-wrap lg:ml-15 md:max-w-md lg:max-w-2xl">
+          <div class=" flex flex-col flex-wrap lg:ml-15 md:max-w-md lg:max-w-2xl transition-all duration-700 hover:scale-105 ease-in-out">
         <h2 class="font-poppins font-light uppercase text-white text-lg tracking-widexl my-2 md:text-xl  lg:text-2xl">About me</h2>
         
       <div class="flex gap-3 my-1">
       <span class="w-[2px] h-5 md:h-7 bg-bluepo rotate-12"></span>
         <p class="font-poppins font-thin  text-white text-sm md:text-base lg:text-xl">내 배경 정보</p>
         </div>
-        <p class="text-greypo font-poppins text-xxs md:text-xs font-extralight tracking-wide leading-5 my-5 md:leading-5 lg:text-base">I’m a software engineer specializing in building (and occasionally designing) exceptional digital experiences. Currently, I’m focused on building accessible, human-centered products at Upstatement.</p>
-        <p class="text-greypo font-poppins md:text-xs text-xxs font-extralight tracking-wide leading-5 md:leading-5 lg:text-base">I’m a software engineer specializing in building (and occasionally designing) exceptional digital experiences. <br><br>All along my journey I’ve worked with various technologies such as :</p>
+        <p class="text-greypo font-poppins text-xs md:text-xs font-extralight tracking-wide leading-5 my-5 md:leading-5 lg:text-base">I’m a software engineer specializing in building (and occasionally designing) exceptional digital experiences. Currently, I’m focused on building accessible, human-centered products at Upstatement.</p>
+        <p class="text-greypo font-poppins md:text-xs text-xs font-extralight tracking-wide leading-5 md:leading-5 lg:text-base">I’m a software engineer specializing in building (and occasionally designing) exceptional digital experiences. <br><br>All along my journey I’ve worked with various technologies such as :</p>
        <ListR/>
+      
         <a href="mailto:melina.bouchelleghem@gmail.com">
         <div class="flex gap-2 my-5 border-[1px] p-3 w-max rounded-3xl flex-wrap transition-all duration-700 hover:scale-105 ease-in-out bg-transpo hover:bg-hoverpo">
         <img class="w-14" src="../assets/arrow.svg" alt="">
-        <p class="font-poppins text-white font-extralight text-xs  mx-3 lg:text-base hover:cursor-pointer">get in contact</p>
+        <p class="font-poppins text-white font-extralight text-xs  mx-3 lg:text-base hover:cursor-pointer">get in contact with me.</p>
         </div>
         </a>
+        
+        
       </div>
       </div>
   
@@ -61,7 +64,11 @@
 <div class="mx-10">
 <div class="h-[0.5px] my-2 bg-white" ></div>
 <div class=" h-2 md:h-4 bg-bluepo "></div>
+
+<CardsProject/>
+
 </div>
+
 
 
 </div>
@@ -78,5 +85,6 @@ import Loader from '@/components/Loader.vue';
 import MenuR from '@/components/MenuR.vue';
 import FooterR from '@/components/FooterR.vue';
 import ListR from '@/components/ListR.vue'
+import CardsProject from '../components/CardsProject.vue';
 
 </script>

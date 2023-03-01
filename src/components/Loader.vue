@@ -11,8 +11,8 @@
 <style>
 
 .loading span{
-    width: 20px;
-    height:20px;
+    width: 30px;
+    height:30px;
     margin:0 10px;
     background-color: #2330A3;
     border-radius: 50%;
