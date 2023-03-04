@@ -6,7 +6,7 @@
         <h1 class="text-white font-gloock tracking-widest text-4xl my-5 md:text-5xl lg:text-7xl laptoplarge:text-[5rem]">this is my portfolio.</h1>
    
 
-        <p class="text-white font-poppins text-xs font-extralight tracking-wide leading-5 lg:text-base laptoplarge:text-base laptoplarge:my-5 ">Hi, my name is Melina. I’m a software engineer specializing in building (and occasionally designing) exceptional digital experiences. Currently, I’m focused on building accessible, human-centered products at <span class="text-bluelightpo">Upstatement.</span></p>
+        <p class="text-zinc-200 font-poppins text-xs font-extralight tracking-wide leading-5 lg:text-base laptoplarge:text-base laptoplarge:my-5 ">Hi, my name is Melina. I’m a software engineer specializing in building (and occasionally designing) exceptional digital experiences. Currently, I’m focused on building accessible, human-centered products at <span class="text-bluelightpo">Upstatement.</span></p>
           <div class="my-5 flex gap-4 lg:gap-6 laptoplarge:gap-8 items-center hover:cursor-pointer lg:my-6">
             <span class="w-11 bg-white h-[0.3px] md:w-16 lg:w-28 laptoplarge:w-32 laptopmax:w-48"></span>
             <a href="https://www.linkedin.com/in/melina-bouchelleghem/" target="_blank">
@@ -34,11 +34,12 @@
         
       <div class="flex gap-3 my-1">
       <span class="w-[2px] h-5 md:h-7 bg-bluepo rotate-12"></span>
-        <p class="font-poppins font-thin  text-white text-sm md:text-base lg:text-xl">내 배경 정보</p>
+        <p class="font-poppins font-thin  text-white text-sm md:text-base lg:text-xl lg:mb-5">내 배경 정보</p>
         </div>
-        <p class="text-greypo font-poppins text-xs md:text-xs font-extralight tracking-wide leading-5 my-5 md:leading-5 lg:text-base">I’m a software engineer specializing in building (and occasionally designing) exceptional digital experiences. Currently, I’m focused on building accessible, human-centered products at Upstatement.</p>
-        <p class="text-greypo font-poppins md:text-xs text-xs font-extralight tracking-wide leading-5 md:leading-5 lg:text-base">I’m a software engineer specializing in building (and occasionally designing) exceptional digital experiences. <br><br>All along my journey I’ve worked with various technologies such as :</p>
+        <p class=" text-zinc-200 font-poppins text-xs md:text-xs font-extralight tracking-wide leading-5 my-5 md:leading-5 lg:text-base">I’m a software engineer specializing in building (and occasionally designing) exceptional digital experiences. Currently, I’m focused on building accessible, human-centered products at Upstatement.</p>
+        <p class="  text-zinc-200 font-poppins md:text-xs text-xs font-extralight tracking-wide leading-5 md:leading-5 lg:text-base">I’m a software engineer specializing in building (and occasionally designing) exceptional digital experiences. <br><br>All along my journey I’ve worked with various technologies such as :</p>
        <ListR/>
+        <p class=" text-zinc-200 font-poppins text-xs md:text-xs font-extralight tracking-wide leading-5 my-5 md:leading-5 lg:text-base">I’m a software engineer specializing in building (and occasionally designing) exceptional digital experiences. Currently, I’m focused on building accessible, human-centered products at Upstatement.</p>
       
         <a href="mailto:melina.bouchelleghem@gmail.com">
         <div class="flex gap-2 my-5 border-[1px] p-3 w-max rounded-3xl flex-wrap transition-all duration-700 hover:scale-105 ease-in-out bg-transpo hover:bg-hoverpo">
@@ -54,7 +55,9 @@
 
    
       <div class="text-right mx-10 my-4 ">
+    
 <h2 class="font-poppins font-light uppercase text-white text-lg tracking-widexl my-2 md:text-xl  lg:text-2xl">Projects</h2>
+
 <div class="flex gap-3 justify-end ">
 
 <p class="font-poppins font-thin  text-white text-sm md:text-base lg:text-xl">내 배경 정보</p>

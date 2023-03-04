@@ -5,7 +5,7 @@
                       <p class="hover:text-zinc-300 relative transition-all duration-700 hover:scale-110 ease-in-out">home<span class="absolute bottom-3 text-bluepo">01</span></p>
                       </RouterLink>
                       <RouterLink to="/">
-                      <p class="hover:text-zinc-300 relative transition-all duration-700 hover:scale-110 ">projects<span class="absolute bottom-3 text-bluepo">02</span></p>
+                      <p class="hover:text-zinc-300 relative transition-all duration-700 hover:scale-110 " id="projects">projects<span class="absolute bottom-3 text-bluepo">02</span></p>
                       </RouterLink>
                       <RouterLink to="/">
                       <p class="hover:text-zinc-300 relative transition-all duration-700 hover:scale-110 ">about<span class="absolute bottom-3 text-bluepo">03</span></p>

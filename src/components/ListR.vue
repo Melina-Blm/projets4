@@ -1,5 +1,5 @@
 <template>
-     <ul class="flex my-3 text-greypo md:text-xs  lg:text-base lg:my-5 font-extralight text-xxs font-poppins space-x-4 md:space-x-16 ">
+     <ul class="flex my-3 text-zinc-200 md:text-xs  lg:text-base lg:my-5 font-extralight text-xxs font-poppins space-x-4 md:space-x-16 ">
         <div class="">
           <li class="flex gap-3">
               <img class="w-3" src="../assets/triangle.svg">
