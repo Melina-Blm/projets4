@@ -8,7 +8,7 @@ import TikTakView from '../views/TikTakView.vue'
 import StrellaView from '../views/StrellaView.vue'
 import NaknowledgeView from '../views/NaknowledgeView.vue'
 import PageNotFoundView from '../views/PageNotFoundView.vue'
-import ReturnView from '../views/ReturnView.vue'
+
 
 
 const router = createRouter({
@@ -23,7 +23,7 @@ const router = createRouter({
     { path: '/tiktak', name: 'TikTak', component: TikTakView },
     { path: '/naknowledge', name: 'Naknowledge', component: NaknowledgeView },
     { path: '/pagenotfound', alias: '/:catchAll(.*)', name: 'PageNotFound', component: PageNotFoundView},
-    { path: '/return', name: 'Return', component: ReturnView },
+ 
 
     // ici les autre routes
   ],
