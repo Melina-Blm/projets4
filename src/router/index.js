@@ -26,8 +26,14 @@ const router = createRouter({
     { path: '/return', name: 'Return', component: ReturnView },
 
     // ici les autre routes
-  ]
+  ],
+  scrollBehavior (to, from, savedPosition) {
+
+    return { left: 0, top: 0 }
+
+  }
 })
+
 
 export default router
 
@@ -36,3 +42,5 @@ new kursor ({
     removeDefaultCursor:true,
     color :"#FFFFFF"
 })
+
+

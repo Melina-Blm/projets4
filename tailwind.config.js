@@ -15,6 +15,7 @@ module.exports = {
         "hoverpo" : "#1F1F1F",
         "bluelightpo" : "#375DCE",
         "greyhoverpo" : "#202020",
+        
         // Ici vos couleurs exportées de Figma
       },
       "fontFamily": {

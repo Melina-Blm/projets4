@@ -41,12 +41,12 @@
        <ListR/>
         <p class=" text-zinc-200 font-poppins text-xs md:text-xs font-extralight tracking-wide leading-5 my-5 md:leading-5 lg:text-base">I’m a software engineer specializing in building (and occasionally designing) exceptional digital experiences. Currently, I’m focused on building accessible, human-centered products at Upstatement.</p>
       
-        <a href="mailto:melina.bouchelleghem@gmail.com">
+        <RouterLink to ="/contact">
         <div class="flex gap-2 my-5 border-[1px] p-3 w-max rounded-3xl flex-wrap transition-all duration-700 hover:scale-105 ease-in-out bg-transpo hover:bg-hoverpo">
         <img class="w-14" src="../assets/arrow.svg" alt="">
         <p class="font-poppins text-white font-extralight text-xs  mx-3 lg:text-base hover:cursor-pointer">get in contact with me.</p>
         </div>
-        </a>
+        </RouterLink>
         
         
       </div>
