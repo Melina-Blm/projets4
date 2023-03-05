@@ -14,8 +14,9 @@
             <a href="https://instagram.com/meli.codes?igshid=YmMyMTA2M2Y=" target="_blank">
               <img  class="w-7 lg:w-9 transition-all hover:scale-110 duration-300" src="../assets/instagram.svg" alt="icone instagram"></a>
               
-              <!--TWITTER A METTRE-->
+              <a href="https://twitter.com/mihokoo_">
               <img  class="w-7 lg:w-9 transition-all hover:scale-125 duration-300" src="../assets/twitter.svg" alt="icone twitter">
+              </a>
 
             <a href="https://github.com/Melina-Blm" target="_blank">
                <img  class="w-7 lg:w-9 transition-all hover:scale-125 duration-300 ease-in-out" src="../assets/github.svg" alt="icone github"></a>

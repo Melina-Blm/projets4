@@ -18,6 +18,7 @@
                 <img class="w-10 cursor-pointer transition-all duration-700 hover:scale-110" src="../assets/contact-po.png" alt="icone contact">
               </RouterLink>
             </div>
+            <img class="md:hidden my-5 mx-8" src="../assets/homebtn.svg" alt="icone home">
           </div>
 </template>
 

@@ -14,7 +14,7 @@
                         <p class="font-poppins font-extralight  text-white text-sm md:text-base lg:text-lg lg:mb-2">Description</p>
                     </div>
                 <p class=" text-zinc-200 font-poppins text-xs md:text-xs font-extralight tracking-wide leading-5 my-2 md:leading-5 lg:text-base"> I’m a software engineer specializing in building (and occasionally designing) exceptional digital experiences. Currently, I’m focused on building accessible, human-centered products at Upstatement.</p>
-                <img class="transition-all border-[1px] my-5 rounded-xl border-zinc-400 duration-500 hover:scale-105 opacity-80 hover:opacity-100" src="../assets/strella.jpg" alt="image strella">
+                <img class="transition-all border-[1px] my-5 rounded-xl border-zinc-400 duration-500 hover:scale-105 opacity-90 hover:opacity-100" src="../assets/strella.jpg" alt="image strella">
                 <p class=" text-zinc-200 font-poppins text-xs md:text-xs font-extralight tracking-wide leading-5 my-2 md:leading-5 lg:text-base"> I’m a software engineer specializing in building (and occasionally designing) exceptional digital experiences. Currently, I’m focused on building accessible, human-centered products at Upstatement.</p>
                 <p class="text-zinc-200 font-poppins md:text-xs text-xs font-extralight tracking-wide leading-5 md:leading-5 lg:text-base">I’m a software engineer specializing in building (and occasionally designing) exceptional digital experiences.</p>
 

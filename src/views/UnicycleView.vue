@@ -58,6 +58,7 @@
                     <img class="w-20 bg-blackpo rounded-2xl p-3" src="../assets/wordpress.png" alt="icone wordpress">
                     <img class="w-20 bg-blackpo rounded-2xl p-3" src="../assets/css_3.png" alt="icone css">
                 </div>
+                
          </div>
     </div>
 
