@@ -20,10 +20,12 @@
                 <p class=" text-zinc-200 font-poppins text-xs md:text-xs font-extralight tracking-wide leading-5 my-2 md:leading-5 lg:text-base">I’m a software engineer specializing in building (and occasionally designing) exceptional digital experiences. Currently, I’m focused on building accessible, human-centered products at Upstatement.</p>
                 <p class="  text-zinc-200 font-poppins md:text-xs text-xs font-extralight tracking-wide leading-5 md:leading-5 lg:text-base"> I’m a software engineer specializing in building (and occasionally designing) exceptional digital experiences.</p>
 
+                <a href="http://naknowledge.fr" target="_blank">
                 <div class="flex gap-2 my-5 border-[1px] p-3 w-max rounded-3xl flex-wrap transition-all duration-700 hover:scale-105 ease-in-out bg-transpo hover:bg-hoverpo">
                     <img class="w-14" src="../assets/arrow.svg" alt="icone fleche">
                     <p class="font-poppins text-white font-extralight text-xs  mx-3 lg:text-base hover:cursor-pointer">link to the website.</p>
                 </div>
+                </a>
 
 <!--COLOR PALETTE-->
 
