@@ -1,11 +1,7 @@
 <template>
     <div class="flex flex-col flex-wrap md:mx-16 mx-10 my-5 mt-10 lg:mx-20 ">
         <Loader />
-        <h1
-            class="text-white font-gloock relative tracking-widest text-4xl my-2 md:text-5xl lg:text-7xl laptoplarge:text-[4.6rem]">
-            mmi international<span
-                class="w-24 absolute bottom-4 lg:bottom-7 mx-5 bg-white h-[0.3px] md:w-16 lg:w-28 laptoplarge:w-32 laptopmax:w-48"></span>
-        </h1>
+   
 
     </div>
 
