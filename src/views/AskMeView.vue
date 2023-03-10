@@ -2,28 +2,29 @@
 
       <div class="flex flex-col flex-wrap md:mx-16 mx-10 my-5 mt-10 lg:mx-20 ">
         <Loader/>
-        <h1 class="text-white font-gloock relative tracking-widest text-3xl my-5 md:text-5xl lg:text-7xl laptoplarge:text-[4.6rem]">askme<span class="w-24 absolute bottom-4 lg:bottom-7 mx-5 bg-white h-[0.3px] md:w-16 lg:w-28 laptoplarge:w-32 laptopmax:w-48"></span></h1>
+        <h1 class="text-white font-poppins font-thin relative tracking-widest text-3xl my-5 md:text-5xl lg:text-7xl laptoplarge:text-[4.6rem]">askme</h1>
     </div>
 
   
         <div class="flex items-center justify-center gap-10 my-10 mx-9 md:my-10 lg:my-20">
           <div class=" flex flex-col flex-wrap lg:ml-15 md:max-w-md lg:max-w-3xl transition-all duration-700 ">
-            <h2 class="font-poppins font-light uppercase text-white text-lg tracking-widexl my-2 md:text-xl  lg:text-2xl">about the project</h2>
+            <h2 class="font-poppins font-extralight uppercase text-white text-lg tracking-widexl my-2 md:text-xl  lg:text-3xl">the project</h2>
           <div class="flex gap-3 my-1">
             <span class="w-[2px] h-5 md:h-7 bg-bluepo rotate-12"></span>
-            <p class="font-poppins font-extralight  text-white text-sm md:text-base lg:text-lg lg:mb-2">Description</p>
+            <p class="font-poppins font-extralight  text-white text-sm md:text-base lg:text-xl lg:mb-2">Description</p>
           </div>
-            <p class=" text-zinc-200 font-poppins text-xs md:text-xs font-extralight tracking-wide leading-5 my-2 md:leading-5 lg:text-base">I’m a software engineer specializing in building (and occasionally designing) exceptional digital experiences. Currently, I’m focused on building accessible, human-centered products at Upstatement.</p>
+            <p class=" text-zinc-200 font-poppins text-xs md:text-xs font-extralight tracking-wide leading-5 my-2 md:leading-5 lg:text-base">Askme is a project created by 3 students with the aim of helping students in their studies. Through Askme, we offer the possibility for users to interact with each other to help each other. During this project, we've also created the Askme promotional website where we defined our values, and future features within Askme.</p>
             <img class="transition-all duration-500 hover:scale-105 opacity-80 hover:opacity-100" src="../assets/askmelp.png" alt="image askme landing page">
-            <p class=" text-zinc-200 font-poppins text-xs md:text-xs font-extralight tracking-wide leading-5 my-2 md:leading-5 lg:text-base">I’m a software engineer specializing in building (and occasionally designing) exceptional digital experiences. Currently, I’m focused on building accessible, human-centered products at Upstatement.</p>
-            <p class="  text-zinc-200 font-poppins md:text-xs text-xs font-extralight tracking-wide leading-5 md:leading-5 lg:text-base">I’m a software engineer specializing in building (and occasionally designing) exceptional digital experiences.</p>
+       
+            <p class=" text-zinc-200 font-poppins text-xs md:text-xs font-extralight tracking-wide leading-5 my-2 md:leading-5 lg:text-base">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <p class="  text-zinc-200 font-poppins md:text-xs text-xs font-extralight tracking-wide leading-5 md:leading-5 lg:text-base">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
             <!--BUTTON-->
             
             <a href="https://askme.melinaweb.fr/" target="_blank">
               <div class="flex gap-2 my-5 border-[1px] p-3 w-max rounded-3xl flex-wrap transition-all duration-700 hover:scale-105 ease-in-out bg-transpo hover:bg-hoverpo">
                 <img class="w-14" src="../assets/arrow.svg" alt="icone fleche">
-                <p class="font-poppins text-white font-extralight text-xs  mx-3 lg:text-base hover:cursor-pointer">link to the landing page.</p>
+                <p class="font-poppins text-white font-extralight text-xs  mx-3 lg:text-base hover:cursor-pointer">link to the landing page</p>
               </div>
             </a>
           
@@ -31,25 +32,25 @@
           
               <div class="flex gap-3 mt-14 mb-4">
                 <span class="w-[2px] h-5 md:h-7 bg-bluepo rotate-12"></span>
-                <p class="font-poppins font-extralight  text-white text-sm md:text-base lg:text-lg lg:mb-2">Color Palette</p>
+                <p class="font-poppins font-extralight  text-white text-sm md:text-base lg:text-xl lg:mb-2">Color Palette</p>
               </div>
-                <p class=" text-zinc-200 font-poppins text-xs md:text-xs font-extralight tracking-wide leading-5  md:leading-5 lg:text-base">I’m a software engineer specializing in building (and occasionally designing) exceptional digital experiences. Currently, I’m focused on building accessible, human-centered products at Upstatement.</p>
+                <p class=" text-zinc-200 font-poppins text-xs md:text-xs font-extralight tracking-wide leading-5  md:leading-5 lg:text-base">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
               <div class="flex flex-wrap gap-10 my-5 justify-center">
-                <div class="w-16 h-16 lg:w-20 lg:h-20 bg-white rounded-md relative transition-all hover:opacity-50 duration-500"></div>
-                <div class="w-16 h-16 lg:w-20 lg:h-20 rounded-md grey"></div>
-                <div class="w-16 h-16 lg:w-20 lg:h-20 blue rounded-md"></div>
-                <div class="w-16 h-16 lg:w-20 lg:h-20 clearblue rounded-md"></div> 
-                <div class="w-16 h-16 lg:w-20 lg:h-20 bg-blackpo  rounded-md"></div> 
+                <div class="w-16 h-16 lg:w-20 lg:h-20 bg-white rounded-md transition-all hover:opacity-50 duration-500"></div>
+                <div class="w-16 h-16 lg:w-20 lg:h-20 rounded-md grey transition-all hover:opacity-50 duration-500"></div>
+                <div class="w-16 h-16 lg:w-20 lg:h-20 blue rounded-md transition-all hover:opacity-50 duration-500"></div>
+                <div class="w-16 h-16 lg:w-20 lg:h-20 clearblue rounded-md transition-all hover:opacity-50 duration-500"></div> 
+                <div class="w-16 h-16 lg:w-20 lg:h-20 bg-blackpo  rounded-md transition-all hover:opacity-50 duration-500"></div> 
               </div>
 
 <!--TOOLS USED-->
 
               <div class="flex gap-3 mt-14 mb-4">
                 <span class="w-[2px] h-5 md:h-7 bg-bluepo rotate-12"></span>
-                <p class="font-poppins font-extralight text-white text-sm md:text-base lg:text-lg lg:mb-2">Tools Used</p>
+                <p class="font-poppins font-extralight text-white text-sm md:text-base lg:text-xl lg:mb-2">Tools Used</p>
               </div>
-                <p class=" text-zinc-200 font-poppins text-xs md:text-xs font-extralight tracking-wide leading-5  md:leading-5 lg:text-base">I’m a software engineer specializing in building (and occasionally designing) exceptional digital experiences. Currently, I’m focused on building accessible, human-centered products at Upstatement.</p>
+                <p class=" text-zinc-200 font-poppins text-xs md:text-xs font-extralight tracking-wide leading-5  md:leading-5 lg:text-base">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
               <div class="flex flex-wrap gap-10 mt-5 justify-center">
                 <img class="w-20 bg-blackpo rounded-2xl p-3" src="../assets/figma.png" alt="icone figma">
@@ -58,11 +59,12 @@
               </div>
             </div>
         </div>
-
+        <FooterR/>
 </template>
 
 <script setup>
 
 import Loader from '@/components/Loader.vue'
+import FooterR from '@/components/FooterR.vue';
 
 </script>

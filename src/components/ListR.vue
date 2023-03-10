@@ -4,7 +4,7 @@
         <div class="">
           <li class="flex gap-3">
             <img class="w-3" src="../assets/triangle.svg" alt="icone triangle">
-            <p class="">HTML/CSS </p>
+            <p class="">HTML / CSS </p>
           </li>
 
           <li class="flex gap-3">
@@ -16,7 +16,7 @@
         <div>
           <li class="flex gap-3">
             <img class="w-3" src="../assets/triangle.svg" alt="icone triangle">
-            <p>VueJS</p>
+            <p>Vue.js</p>
           </li>
           <li class="flex gap-3">
             <img class="w-3" src="../assets/triangle.svg" alt="icone triangle">

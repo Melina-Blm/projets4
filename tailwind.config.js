@@ -6,6 +6,9 @@ module.exports = {
   theme: {
 
     extend: {
+      height:{
+        '500': '100px'
+      },
       "colors": {
         "darkpo":"#141414",
         "blackpo":"#101010",
@@ -27,6 +30,7 @@ module.exports = {
       "screens" : {
         "laptoplarge" : "1250px",
         "laptopmax" : "1310px",
+        "laptopmx" : "1910px",
       },
       "fontSize" : {
         "xxs" : "0.675rem"

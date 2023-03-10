@@ -1,43 +1,49 @@
 <template>
-    
-      <div class="grid grid-cols-1 md:grid-cols-2 m-12 md:m-7 lg:m-14 laptoplarge:mx-16 ">
-          <div class=" flex flex-col flex-wrap md:mx-11">
-            <Loader/>
-            <h1 class="text-white font-gloock tracking-widest text-4xl my-2 mt-5 md:text-5xl lg:text-7xl laptoplarge:text-[5rem]">page not found...</h1>
-            <p class="text-white font-poppins text-xs font-extralight tracking-wide lg:text-base laptoplarge:text-base laptoplarge:my-5 ">Oops! It seems that the page you were looking for does not exist or has been deleted. We're sorry for the inconvenience.<br>If you need further assistance or have any questions, please do not hesitate to contact me. I'll be happy to assist you in your search.</p>
+        <div class="pb-10 md:mt-[-40px] lg:mt-[-60px]">
+    <div class="relative h-96 md:h-screen flex justify-center flex-col items-center">
+      <img class="px-5 md:px-16 absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2"
+        src="../assets/twocircles-blue-orange.svg" alt="illustration circles">
 
-              <div class="my-5 flex gap-4 lg:gap-6 laptoplarge:gap-8 items-center hover:cursor-pointer lg:my-6">
-                <span class="w-11 bg-white h-[0.3px] md:w-16 lg:w-28 laptoplarge:w-32 laptopmax:w-48"></span>
-              
-                <a href="https://www.linkedin.com/in/melina-bouchelleghem/" target="_blank">
-                <img  class="w-7 lg:w-9 transition-all hover:scale-110 duration-300" src="../assets/linkedin.svg" alt="icone linkedin">
-                </a>
-
-                <a href="https://instagram.com/meli.codes?igshid=YmMyMTA2M2Y=" target="_blank">
-                  <img  class="w-7 lg:w-9 transition-all hover:scale-110 duration-300" src="../assets/instagram.svg" alt="icone instagram">
-                </a>
-
-                <a href="https://twitter.com/mihokoo_">
-                  <img  class="w-7 lg:w-9 transition-all hover:scale-125 duration-300" src="../assets/twitter.svg" alt="icone twitter">
+          
+              <div class="z-10 mb-3 md:mb-5 laptopmax:mb-7">
+                <h1 class="uppercase text-center text-zinc-300 font-poppins text-2xl font-thin tracking-widexl md:text-6xl lg:text-7xl laptopmax:text-8xl animate-pulse">[PAGE 404]</h1>
+               
+               </div>
+                <div class="flex  flex-row flex-wrap gap-4 md:gap-10 z-10">
+                  <a href="https://www.linkedin.com/in/melina-bouchelleghem/" target="_blank">
+                    <img class="w-7 md:w-10 lg:w-12 transition-all hover:scale-110 duration-300" src="../assets/linkedin.svg"
+                      alt="icone linkedin">
                   </a>
 
-              
-                <a href="https://github.com/Melina-Blm" target="_blank">
-                   <img  class="w-7 lg:w-9 transition-all hover:scale-125 duration-300 ease-in-out" src="../assets/github.svg" alt="icone github">
-                </a>
+                  <a href="https://instagram.com/meli.codes?igshid=YmMyMTA2M2Y=" target="_blank">
+                    <img class="w-7 md:w-10 lg:w-12 transition-all hover:scale-110 duration-300" src="../assets/instagram.svg"
+                      alt="icone instagram">
+                  </a>
 
-              </div>
-          </div>
+                  <a href="https://twitter.com/mihokoo_">
+                    <img class="w-7 md:w-10 lg:w-12 transition-all hover:scale-125 duration-300" src="../assets/twitter.svg"
+                      alt="icone twitter">
+                  </a>
 
-            <div class="m-auto">
-              <img class="md:w-[250px] lg:w-[310px] hidden md:block laptoplarge:w-[350px] laptopmax:w-[370px]" src="../assets/illustrationcircle.svg" alt="illustration">
-            </div>
-      </div>
+
+                  <a href="https://github.com/Melina-Blm" target="_blank">
+                    <img class="w-7  md:w-10 lg:w-12 transition-all hover:scale-125 duration-300 ease-in-out" src="../assets/github.svg"
+                      alt="icone github">
+                  </a>
+
+               
+          </div>    
+
+
+    </div>
+</div>
+      <FooterR/>
 
 </template>
 
 <script setup>
 
 import Loader from '@/components/Loader.vue'
+import FooterR from '@/components/FooterR.vue'
 
 </script>

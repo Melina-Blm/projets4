@@ -1,10 +1,10 @@
 <template>
-    <div class="bg-darkpo h-full overflow-x-hidden ">
+    <div class="bg-darkpo h-full overflow-x-hidden">
         <MenuR/>
           <Suspense>
            <router-view class=""/>
           </Suspense>
-        <FooterR/>
+          
    </div>
 </template>
 
