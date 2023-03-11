@@ -32,7 +32,7 @@
             </div>
             <div class="w-16 h-16 lg:w-20 lg:h-20 unigreen rounded-md transition-all hover:opacity-50 duration-500">
             </div>
-            <div class="w-16 h-16 lg:w-20 lg:h-20 bg-blackpo  rounded-md transition-all hover:opacity-50 duration-500">
+            <div class="w-16 h-16 lg:w-20 lg:h-20 bg-blackpo border-[1px] border-zinc-700 rounded-md transition-all hover:opacity-50 duration-500">
             </div>
         </div>
 

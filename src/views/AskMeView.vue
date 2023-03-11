@@ -55,7 +55,7 @@
       <p
         class=" text-zinc-200 font-poppins text-xs md:text-xs font-extralight tracking-wide leading-5  md:leading-5 lg:text-base ">
         Throughout this project, me and my team used several tools and languages that allowed us to create the promotional
-        aswell as the actual Askme website :</p>
+        aswell as the actual Askme website.</p>
       <ul
         class="flex my-3 text-zinc-200 md:text-xs  lg:text-base lg:my-5 font-extralight text-xxs font-poppins space-x-4 md:space-x-16 ">
     

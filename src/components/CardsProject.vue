@@ -1,25 +1,5 @@
 <template>
-    <div class="flex items-center flex-wrap my-6 gap-3 lg:gap-7 hover:bg-greyhoverpo lg:p-5 p-3 transition-all duration-700 hover:scale-105 ease-in-out">
-
-<!--PROJET ASKME-->
-
-
-        <img class=" md:max-w-xs laptoplarge:max-w-lg lg:max-w-sm rounded-md transition-all hover:opacity-90" src="../assets/askme.jpg" alt="image askme">
-        <div class="text-white font-poppins md:max-w-xs lg:max-w-md  laptoplarge:max-w-lg laptopmax:max-w-xl">
-           <p class="text-white tracking-widexl font-light text-base lg:text-2xl lg:font-extralight">ASKME</p>
-           <p class="font-thin text-xs lg:text-lg">Web Development</p>
-           <p class="text-bluelightpo font-light text-xxs lg:text-base lg:mb-6">#webdevelopment #project #school #vuejs #figma</p>
-           <p class="font-extralight text-xs text-zinc-200 leading-5 my-2 lg:text-base lg:mb-6">Askme is a project created by 3 students with the aim of helping students in their studies. Through this school project, I've established a communication strategy, design visuals and wireframes as well as the design of a landing page to promote our website.</p>
-
-          <RouterLink to="/askme">
-            <div class="flex gap-2  my-3 md:my-0 border-[1px] p-3 w-max rounded-3xl flex-wrap transition-all duration-700 hover:scale-105 ease-in-out bg-transpo hover:bg-hoverpo">
-            <img class="w-14" src="../assets/arrow.svg" alt="icone fleche">
-            <p class="font-poppins text-white font-extralight text-xs mx-3 lg:text-base hover:cursor-pointer">view this project</p>
-            </div>
-          </RouterLink>
-        </div>
-    </div>
-
+   
 <!--PROJET MMI INTERNATIONAL-->
   
 
@@ -80,6 +60,31 @@
                     </RouterLink>
                 </div>
             </div>
+
+
+            
+<!--PROJET ASKME-->
+
+
+            <div class="flex items-center flex-wrap my-6 gap-3 lg:gap-7 hover:bg-greyhoverpo lg:p-5 p-3 transition-all duration-700 hover:scale-105 ease-in-out">
+
+
+        <img class=" md:max-w-xs laptoplarge:max-w-lg lg:max-w-sm rounded-md transition-all hover:opacity-90" src="../assets/askme.jpg" alt="image askme">
+        <div class="text-white font-poppins md:max-w-xs lg:max-w-md  laptoplarge:max-w-lg laptopmax:max-w-xl">
+           <p class="text-white tracking-widexl font-light text-base lg:text-2xl lg:font-extralight">ASKME</p>
+           <p class="font-thin text-xs lg:text-lg">Web Development</p>
+           <p class="text-bluelightpo font-light text-xxs lg:text-base lg:mb-6">#webdevelopment #project #school #vuejs #figma</p>
+           <p class="font-extralight text-xs text-zinc-200 leading-5 my-2 lg:text-base lg:mb-6">Askme is a project created by 3 students with the aim of helping students in their studies. Through this school project, I've established a communication strategy, design visuals and wireframes as well as the design of a landing page to promote our website.</p>
+
+          <RouterLink to="/askme">
+            <div class="flex gap-2  my-3 md:my-0 border-[1px] p-3 w-max rounded-3xl flex-wrap transition-all duration-700 hover:scale-105 ease-in-out bg-transpo hover:bg-hoverpo">
+            <img class="w-14" src="../assets/arrow.svg" alt="icone fleche">
+            <p class="font-poppins text-white font-extralight text-xs mx-3 lg:text-base hover:cursor-pointer">view this project</p>
+            </div>
+          </RouterLink>
+        </div>
+    </div>
+
 
 <!--PROJET NAKNOWLEDGE-->
 
