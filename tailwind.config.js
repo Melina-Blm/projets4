@@ -31,6 +31,7 @@ module.exports = {
         "laptoplarge" : "1250px",
         "laptopmax" : "1310px",
         "laptopmx" : "1910px",
+        "laptopmd" : "700px",
       },
       "fontSize" : {
         "xxs" : "0.675rem"

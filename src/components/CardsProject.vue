@@ -1,5 +1,5 @@
 <template>
-    <div class="flex items-center hidden flex-wrap my-6 gap-3 lg:gap-7 hover:bg-greyhoverpo lg:p-5 p-3 transition-all duration-700 hover:scale-105 ease-in-out">
+    <div class="flex items-center flex-wrap my-6 gap-3 lg:gap-7 hover:bg-greyhoverpo lg:p-5 p-3 transition-all duration-700 hover:scale-105 ease-in-out">
 
 <!--PROJET ASKME-->
 
@@ -84,7 +84,7 @@
 <!--PROJET NAKNOWLEDGE-->
 
 
-            <div class="flex items-center flex-wrap my-6 gap-3 lg:gap-7  p-3 hover:bg-greyhoverpo lg:p-5 transition-all duration-700 hover:scale-105 ease-in-out hidden">
+            <div class="flex items-center flex-wrap my-6 gap-3 lg:gap-7  p-3 hover:bg-greyhoverpo lg:p-5 transition-all duration-700 hover:scale-105 ease-in-out ">
               <img class=" md:max-w-xs laptoplarge:max-w-lg lg:max-w-sm rounded-md transition-all hover:opacity-90" src="../assets/naknowledge.jpg" alt="image naknowledge">
                 <div class="text-white font-poppins md:max-w-xs lg:max-w-md  laptoplarge:max-w-lg laptopmax:max-w-xl">
                   <p class="text-white tracking-widexl font-light text-base lg:text-2xl lg:font-extralight">NAKNOWLEDGE</p>

@@ -2,33 +2,33 @@
   <main>
     <!--HEADER-->
 <div class="pb-10 md:mt-[-40px] lg:mt-[-60px]">
-    <div class="relative h-96 md:h-screen flex justify-center flex-col items-center">
-      <img class="px-5 md:px-16 absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2"
+    <div class="relative h-96 md:h-screen flex justify-center flex-col items-center laptopmax:max-w-8xl">
+      <img class="px-5 md:px-16 absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 laptopmax:w-4/6 laptopmd:px-14"
         src="../assets/twocircles-blue-orange.svg" alt="illustration circles">
 
           
               <div class="z-10 mb-3 md:mb-5 laptopmax:mb-7">
-                <h1 class="uppercase text-center text-zinc-300 font-poppins text-2xl font-thin tracking-widexl md:text-6xl lg:text-7xl laptopmax:text-8xl animate-pulse">Melina B.</h1>
+                <h1 class="text_md uppercase text-center text-zinc-300 font-poppins text-2xl font-thin tracking-widexl md:text-6xl lg:text-7xl laptopmax:text-8xl animate-pulse ">Melina B.</h1>
                </div>
                 <div class="flex  flex-row flex-wrap gap-4 md:gap-10 z-10 lg:gap-14">
                   <a href="https://www.linkedin.com/in/melina-bouchelleghem/" target="_blank">
-                    <img class="w-7 md:w-10 lg:w-12 transition-all hover:scale-110 duration-300" src="../assets/linkedin.svg"
+                    <img class="icones w-5  md:w-10 lg:w-12 transition-all hover:scale-110 duration-300" src="../assets/linkedin.svg"
                       alt="icone linkedin">
                   </a>
 
                   <a href="https://instagram.com/meli.codes?igshid=YmMyMTA2M2Y=" target="_blank">
-                    <img class="w-7 md:w-10 lg:w-12 transition-all hover:scale-110 duration-300" src="../assets/instagram.svg"
+                    <img class="icones w-5 md:w-10 lg:w-12 transition-all hover:scale-110 duration-300" src="../assets/instagram.svg"
                       alt="icone instagram">
                   </a>
 
                   <a href="https://twitter.com/mihokoo_" target="_blank">
-                    <img class="w-7 md:w-10 lg:w-12 transition-all hover:scale-125 duration-300" src="../assets/twitter.svg"
+                    <img class="icones w-5  md:w-10 lg:w-12 transition-all hover:scale-125 duration-300" src="../assets/twitter.svg"
                       alt="icone twitter">
                   </a>
 
 
                   <a href="https://github.com/Melina-Blm" target="_blank">
-                    <img class="w-7  md:w-10 lg:w-12 transition-all hover:scale-125 duration-300 ease-in-out" src="../assets/github.svg"
+                    <img class="icones w-5   md:w-10 lg:w-12 transition-all hover:scale-125 duration-300 ease-in-out" src="../assets/github.svg"
                       alt="icone github">
                   </a>
 
@@ -40,7 +40,7 @@
 </div>
     <!--SECTIONS A PROPOS - ABOUT -->
 
-    <div class="bg-blackpo border-t-[0.015rem] border-zinc-700">
+    <div id="about" class="bg-blackpo border-t-[0.015rem] border-zinc-700">
       <div class="flex items-center  justify-center gap-10 my-16 mx-12  md:mx-20 md:my-20 lg:my-28">
         <div
           class=" flex flex-col flex-wrap lg:ml-15 md:max-w-lg lg:max-w-4xl laptopmx:max-w-6xl transition-all duration-700 hover:scale-105 ease-in-out">
@@ -86,7 +86,7 @@
 
       <!-- SECTION PROJETS-->
 
-      <div class="">
+      <div  id="projets" class="">
         <div class="text-right mx-10 my-4 ">
           <h2
             class="font-poppins font-extralight uppercase text-white text-lg tracking-widexl my-2 md:text-xl  lg:text-2xl">

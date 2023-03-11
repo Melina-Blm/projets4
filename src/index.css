@@ -75,3 +75,18 @@
 .unigreen {
     background-color: #6AEAA3;
 }
+
+
+
+
+@media screen and (min-width: 500px) {
+.text_md{
+    font-size: 36px;
+    }
+
+.icones{
+      
+    width: 30px;
+        
+    }
+}

@@ -10,24 +10,35 @@
 
     <div class="flex items-center justify-center gap-10 my-10 mx-9 md:my-10 lg:my-20">
         <div class=" flex flex-col flex-wrap lg:ml-15 md:max-w-md lg:max-w-3xl transition-all duration-700 ">
-            <h2 class="font-poppins font-extralight uppercase text-white text-lg tracking-widexl my-2 md:text-xl  lg:text-3xl">
+            <h2
+                class="font-poppins font-extralight uppercase text-white text-lg tracking-widexl my-2 md:text-xl  lg:text-3xl">
                 the project</h2>
 
             <div class="flex gap-3 my-1">
                 <span class="w-[2px] h-5 md:h-7 bg-bluepo rotate-12"></span>
-                <p class="font-poppins font-extralight  text-white text-sm md:text-base lg:text-xl lg:mb-2">Description</p>
+                <p class="font-poppins font-extralight  text-zinc-400 text-sm md:text-base lg:text-xl lg:mb-2">Description
+                </p>
             </div>
             <p
-                class=" text-zinc-200 font-poppins text-xs md:text-xs font-extralight tracking-wide leading-5 my-2 md:leading-5 lg:text-base">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                class=" text-zinc-200 font-poppins text-xs md:text-xs font-extralight tracking-wide leading-5 my-2 md:leading-5 lg:text-base lg:mb-5">
+                Tik Tak is a school project that is mainly based on user experience. The main goal is to involve the user in the creation of his model and to offer him an original user experience. <br> <br> I've identified the user path, before developing the primary
+                features of my website. Tik Tak is a fictitious connected watch sales site. Through Tik Tak, it is possible to compose your own personalized pair of connected watches</p>
             <img class="transition-all p-5 duration-500 hover:scale-105 opacity-80 hover:opacity-100"
                 src="../assets/tiktaklp.png" alt="image tiktak landing page">
-            <p
-                class=" text-zinc-200 font-poppins text-xs md:text-xs font-extralight tracking-wide leading-5 my-2 md:leading-5 lg:text-base">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-            <p
-                class="  text-zinc-200 font-poppins md:text-xs text-xs font-extralight tracking-wide leading-5 md:leading-5 lg:text-base">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+
+
+            <div class="flex flex-wrap gap-10 my-5 mt-5  md:mb-14 mb-10 lg:mb-10   justify-center">
+                <div class="w-16 h-16 lg:w-20 lg:h-20 bg-white rounded-md transition-all hover:opacity-50 duration-500">
+                </div>
+                <div class="w-16 h-16 lg:w-20 lg:h-20 greendark rounded-md transition-all hover:opacity-50 duration-500">
+                </div>
+                <div class="w-16 h-16 lg:w-20 lg:h-20 beigebrown rounded-md transition-all hover:opacity-50 duration-500">
+                </div>
+                <div
+                    class="w-16 h-16 lg:w-20 lg:h-20 bg-blackpo border-[1px] border-zinc-700 rounded-md transition-all hover:opacity-50 duration-500">
+                </div>
+            </div>
 
             <!--BUTTON-->
 
@@ -40,47 +51,62 @@
                 </div>
             </a>
 
-            <!--COLOR PALETTE-->
 
-            <div class="flex gap-3 mt-14 mb-4">
-                <span class="w-[2px] h-5 md:h-7 bg-bluepo rotate-12"></span>
-                <p class="font-poppins font-extralight  text-white text-sm md:text-base lg:text-xl lg:mb-2">Color Palette
-                </p>
-            </div>
 
-            <p
-                class="text-zinc-200 font-poppins text-xs md:text-xs font-extralight tracking-wide leading-5  md:leading-5 lg:text-base">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
-            <div class="flex flex-wrap gap-10 my-5 justify-center">
-                <div class="w-16 h-16 lg:w-20 lg:h-20 bg-white rounded-md transition-all hover:opacity-50 duration-500">
-                </div>
-                <div class="w-16 h-16 lg:w-20 lg:h-20 greendark rounded-md transition-all hover:opacity-50 duration-500">
-                </div>
-                <div class="w-16 h-16 lg:w-20 lg:h-20 beigebrown rounded-md transition-all hover:opacity-50 duration-500">
-                </div>
-                <div class="w-16 h-16 lg:w-20 lg:h-20 bg-blackpo  rounded-md transition-all hover:opacity-50 duration-500">
-                </div>
-            </div>
+
+
 
             <!--TOOLS USED-->
 
-            <div class="flex gap-3 mt-14 mb-4">
+            <div class="flex gap-3 mt-9 mb-4">
                 <span class="w-[2px] h-5 md:h-7 bg-bluepo rotate-12"></span>
-            <p class="font-poppins font-extralight text-white text-sm md:text-base lg:text-xl lg:mb-2">Tools Used</p>
-        </div>
-        <p
-            class="text-zinc-200 font-poppins text-xs md:text-xs font-extralight tracking-wide leading-5  md:leading-5 lg:text-base">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                <p class="font-poppins font-extralight text-zinc-400 text-sm md:text-base lg:text-xl lg:mb-2">Tools Used</p>
+            </div>
+            <p
+                class="text-zinc-200 font-poppins text-xs md:text-xs font-extralight tracking-wide leading-5  md:leading-5 lg:text-base">
+    I've used several tools and languages that allowed me to create TikTak such as :</p>
 
-        <div class="flex flex-wrap gap-10 mt-5 justify-center">
-            <img class="w-20 bg-blackpo rounded-2xl p-3" src="../assets/vue.png" alt="icone vuejs">
-            <img class="w-20 bg-blackpo rounded-2xl p-3" src="../assets/html_5.png" alt="icone html">
-            <img class="w-20 bg-blackpo rounded-2xl p-3" src="../assets/css_3.png" alt="icone css">
+            <ul class="flex my-3 text-zinc-200 md:text-xs  lg:text-base lg:my-5 font-extralight text-xxs font-poppins space-x-4 md:space-x-16 ">
+                <div>
+                    <li class="flex gap-3">
+                        <img class="w-3" src="../assets/triangle.svg" alt="icone triangle">
+                        <p class="">HTML / CSS </p>
+                    </li>
+
+                    <li class="flex gap-3">
+                        <img class="w-3" src="../assets/triangle.svg" alt="icone triangle">
+                        <p>JavaScript</p>
+                    </li>
+                </div>
+
+                <div>
+                    <li class="flex gap-3">
+                        <img class="w-3" src="../assets/triangle.svg" alt="icone triangle">
+                        <p>Vue.js</p>
+                    </li>
+                    <li class="flex gap-3">
+                        <img class="w-3" src="../assets/triangle.svg" alt="icone triangle">
+                        <p>Tailwind</p>
+                    </li>
+                </div>
+
+                <div>
+                    <li class="flex gap-3">
+                        <img class="w-3" src="../assets/triangle.svg" alt="icone triangle">
+                        <p>Figma</p>
+                    </li>
+                    <li class="flex gap-3">
+                        <img class="w-3" src="../assets/triangle.svg" alt="icone triangle">
+                        <p>TypeScript</p>
+                    </li>
+                </div>
+            </ul>
+        
         </div>
     </div>
-</div>
-<FooterR /></template>
+    <FooterR />
+</template>
 
 <script setup>
 

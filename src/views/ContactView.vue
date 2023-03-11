@@ -2,7 +2,7 @@
 
 <div class="bg-darkpo h-screen overflow-x-hidden">
   
-    <div class="grid grid-cols-1 lg:grid-cols-2 md:m-7 lg:mx-14 laptoplarge:mx-16">
+    <div class="grid grid-cols-1 lg:grid-cols-2 md:m-7 lg:mx-14 laptoplarge:mx-16 lg:pt-10">
       <div class=" flex flex-col flex-wrap  md:mx-11 mx-12 my-5 mt-10 ">
         <Loader/>
           <h1 class="text-white font-poppins font-thin tracking-widest text-4xl my-5 md:text-5xl lg:text-7xl laptoplarge:text-[4.6rem] ">get in touch with me.</h1>
