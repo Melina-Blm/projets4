@@ -19,7 +19,7 @@
                 <p class="font-poppins font-extralight  text-zinc-400 text-sm md:text-base lg:text-xl lg:mb-2">Description</p>
             </div>
             <p
-                class=" text-zinc-200 font-poppins text-xs md:text-xs font-extralight tracking-wide leading-5 my-2 md:leading-5 lg:text-base">Around the theme of bike commuting, I was able to create a communication strategy by defining 3 values for my website. Once this was done, I set up the website using the Avada theme of Wordpress.</p>
+                class=" text-zinc-200 font-poppins text-xs md:text-xs font-extralight tracking-wide leading-5 my-2 md:leading-5 lg:text-base">Around the theme of <span class="text-bluelightpo font-light">bike commuting</span>, I was able to create a communication strategy by defining 3 values for my website. Once this was done, I set up the website using the <span class="text-bluelightpo font-light">Avada theme of Wordpress</span>.</p>
             <img class="transition-all mb-[-20px] duration-500 hover:scale-105 opacity-80 hover:opacity-100"
                 src="../assets/unicyclelp.png" alt="image unicycle landing page">
        

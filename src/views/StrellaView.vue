@@ -18,7 +18,7 @@
             </div>
             <p
                 class=" text-zinc-200 font-poppins text-xs md:text-xs font-extralight tracking-wide leading-5 my-2 md:leading-5 lg:text-base">
-                During my 2nd semester, I had the opportunity to design a mock-up for a fictional festival. I've established a communication strategy, design visuals and wireframes in order to promote the festival.<br> <br>To achieve the mock-up, I had to define some elements like the target of my festival, the place, the visual identity as well as the musical orientations of the festival. All these elements allowed me to get a main idea for the creation of my mock-up.</p>
+                During my 2nd semester, I had the opportunity to design a <span class="text-bluelightpo font-light">mock-up for a fictional festival</span>. I've established a communication strategy, design visuals and wireframes in order to promote the festival.<br> <br>To achieve the mock-up, I had to define some elements like the target of my festival, the place, the visual identity as well as the musical orientations of the festival. All these elements allowed me to get a main idea for the creation of my mock-up.</p>
             <img class="transition-all border-[1px] my-5 rounded-xl border-zinc-400 duration-500 hover:scale-105 opacity-90 hover:opacity-100"
                 src="../assets/strella.jpg" alt="image strella">
  

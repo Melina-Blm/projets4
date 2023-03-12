@@ -15,7 +15,7 @@
                     <p class="font-poppins font-extralight  text-zinc-400 text-sm md:text-base lg:text-xl lg:mb-2">Description
                     </p>
                 </div>
-                <p class=" text-zinc-200 font-poppins text-xs md:text-xs font-extralight tracking-wide leading-5 my-2 md:leading-5 lg:text-base">Naknowledge is a study project based on Wordpress' platform. The primary goal of this website is to create a community of sharing around small knowledge accessible everywhere.<br> <br>This website is dedicated to the free and fun of knowledge. It proposes various naknow-lessons on a set of various subjects present under 4 themes: ecology, web development, video games and graphic design. These lessons can be consulted at any time and can be created by the user and posted on the website.</p>
+                <p class=" text-zinc-200 font-poppins text-xs md:text-xs font-extralight tracking-wide leading-5 my-2 md:leading-5 lg:text-base">Naknowledge is a study project based on <span class="text-bluelightpo font-light">Wordpress' platform</span>. The primary goal of this website is to create a community of sharing around small knowledge accessible everywhere.<br> <br>This website is dedicated to the free and fun of knowledge. It proposes various <span class="text-bluelightpo font-light">naknow-lessons</span> on a set of various subjects present under <span class="text-bluelightpo font-light">four themes </span>: ecology, web development, video games and graphic design. These lessons can be consulted at any time and can be created by the user and posted on the website.</p>
                 <img class="transition-all duration-500 mx-2 my-5  hover:scale-105 opacity-80 hover:opacity-100" src="../assets/naknowledgelp.jpg" alt="image naknowledge landing page">
            
 
@@ -47,7 +47,7 @@
                     <p class="font-poppins font-extralight text-zinc-400 text-sm md:text-base lg:text-xl lg:mb-2">Tools Used</p>
                 </div>
                 
-                <p class=" text-zinc-200 font-poppins text-xs md:text-xs font-extralight tracking-wide leading-5  md:leading-5 lg:text-base">Throughout this project, me and my team used several tools and languages that allowed us to create this website.</p>
+                <p class=" text-zinc-200 font-poppins text-xs md:text-xs font-extralight tracking-wide leading-5  md:leading-5 lg:text-base">Through this project, me and my team used several tools and languages that allowed us to create this website.</p>
                 <ul
         class="flex my-3 text-zinc-200 md:text-xs  lg:text-base lg:my-5 font-extralight text-xxs font-poppins space-x-4 md:space-x-16 ">
     

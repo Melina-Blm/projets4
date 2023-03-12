@@ -18,7 +18,7 @@
       <p
         class=" text-zinc-200 font-poppins text-xs md:text-xs font-extralight tracking-wide leading-5 my-2 md:leading-5 lg:text-base">
         Askme is a project created by three students with the aim of helping students in their studies. Through Askme, we
-        offer the possibility for users to interact with each other to help each other.<br><br> During this project, we've
+        offer the possibility for users to interact with each other to <span class="text-bluelightpo font-light">help each other</span>.<br><br> During this project, we've
         also created the Askme promotional website where we defined our values, and future features within Askme.</p>
       <img class="transition-all mb-[-15px] duration-500 hover:scale-105 opacity-80 hover:opacity-100"
         src="../assets/askmelp.png" alt="image askme landing page">

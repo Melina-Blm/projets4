@@ -21,8 +21,8 @@
             </div>
             <p
                 class=" text-zinc-200 font-poppins text-xs md:text-xs font-extralight tracking-wide leading-5 my-2 md:leading-5 lg:text-base lg:mb-5">
-                Tik Tak is a school project that is mainly based on user experience. The main goal is to involve the user in the creation of his model and to offer him an original user experience. <br> <br> I've identified the user path, before developing the primary
-                features of my website. Tik Tak is a fictitious connected watch sales site. Through Tik Tak, it is possible to compose your own personalized pair of connected watches</p>
+                Tik Tak is a school project that is mainly based on <span class="text-bluelightpo font-light">user experience</span>. The main goal is to involve the user in the creation of his model and to offer him an original user experience. <br> <br> I've identified the user path, before developing the primary
+                features of my website. Tik Tak is a fictitious connected watch sales site. Through Tik Tak, it is possible to compose your own<span class="text-bluelightpo font-light"> personalized pair of connected watches</span>.</p>
             <img class="transition-all p-5 duration-500 hover:scale-105 opacity-80 hover:opacity-100"
                 src="../assets/tiktaklp.png" alt="image tiktak landing page">
 
@@ -65,7 +65,7 @@
             </div>
             <p
                 class="text-zinc-200 font-poppins text-xs md:text-xs font-extralight tracking-wide leading-5  md:leading-5 lg:text-base">
-    I've used several tools and languages that allowed me to create TikTak.</p>
+    I've used several tools and languages that allowed me to create this website.</p>
 
             <ul class="flex my-3 text-zinc-200 md:text-xs  lg:text-base lg:my-5 font-extralight text-xxs font-poppins space-x-4 md:space-x-16 ">
                 <div>

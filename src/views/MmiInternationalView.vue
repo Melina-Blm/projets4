@@ -15,9 +15,9 @@
                         <span class="w-[2px] h-5 md:h-7 bg-bluepo rotate-12"></span>
                         <p class="font-poppins font-extralight  text-zinc-400 text-sm md:text-base lg:text-xl lg:mb-2">Description</p>
                     </div>
-                <p class=" text-zinc-200 font-poppins text-xs md:text-xs font-extralight tracking-wide leading-5 my-2 md:leading-5 lg:text-base">During this project, our group were commissioned to produce the contents of a multi-media communication of a redesign of the international page for the MMI Montbéliard department, with an international and French-speaking target.<br> <br>The first step consisted in setting up different technical and semantic audits by studying with precision the traffic of the existing MMI Montbéliard website. Once the different studies were done, we retained various values and possible design and technical improvements concerning the international part of the site. <br><br>
+                <p class=" text-zinc-200 font-poppins text-xs md:text-xs font-extralight tracking-wide leading-5 my-2 md:leading-5 lg:text-base">During this project, our group were commissioned to produce the contents of a multi-media communication of a redesign of the international page for the MMI Montbéliard department, with an international and French-speaking target.<br> <br>The first step consisted in setting up different technical and semantic audits by studying with precision the traffic of the existing MMI Montbéliard website. Once the different studies were done, we retained various values and possible design and <span class="text-bluelightpo font-light">technical improvements</span> concerning the international part of the site. <br><br>
 
-Finally, we used different tools such as Figma, Indesign, Illustrator and Premiere Pro to redesign the site through the wireframes, the graphic charter and the promotional videos.</p>
+Finally, we used different tools such as <span class="text-bluelightpo font-light">Figma, Indesign, Illustrator and Premiere Pro</span> to redesign the site through the wireframes, the graphic charter and the promotional videos.</p>
                 <img class="transition-all duration-500 mx-2 my-5 hover:scale-105 opacity-80 hover:opacity-100"
                     src="../assets/mmiinternationallp.jpg" alt="image mmi international">
                 
