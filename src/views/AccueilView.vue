@@ -4,7 +4,7 @@
 <div class="pb-10 md:mt-[-40px] lg:mt-[-60px]">
     <div class="relative h-96 md:h-screen flex justify-center flex-col items-center laptopmax:max-w-8xl">
       <img class="px-5 md:px-16 absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 laptopmax:w-4/6 laptopmd:px-14"
-        src="../assets/twocircles-blue-orange.svg" alt="illustration circles">
+        src="../assets/twocircles-pink-blue.svg" alt="illustration circles">
 
           
               <div class="z-10 mb-3 md:mb-5 laptopmax:mb-7">
