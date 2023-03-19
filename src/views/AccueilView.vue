@@ -76,9 +76,9 @@
           <div
             class="flex gap-2 my-5 border-[1px] p-3 w-max rounded-3xl flex-wrap ease-in-out bg-transpo hover:bg-hoverpo">
             <img class="w-14" src="../assets/arrow.svg" alt="icone d'une fleche">
-            <a href="src/assets/cv-melina-bouchelleghem-francais.pdf" download
-              class="font-poppins text-white font-extralight text-xs  mx-3 lg:text-base hover:cursor-pointer">download my
-              resume</a>
+        <RouterLink to="/contact">
+          
+             <p class="font-poppins text-white font-extralight text-xs  mx-3 lg:text-base hover:cursor-pointer">get in contact</p></RouterLink>
           </div>
 
         </div>
