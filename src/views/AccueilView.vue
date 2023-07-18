@@ -54,7 +54,7 @@
           </div>
           <p
             class=" text-zinc-200 font-poppins text-xs md:text-xs font-extralight tracking-wide leading-5 my-5 md:leading-5 lg:text-base">
-            Hi ! My name is Melina and I enjoy creating web visuals and websites. I have always been fascinated by the
+            My name is Melina and I enjoy creating web visuals and websites. I have always been fascinated by the
             endless possibilities of the web and the way it can be used to connect people from all over the world. I am
             constantly looking for new challenges and opportunities to improve my skills in web development and web
             design.</p>
